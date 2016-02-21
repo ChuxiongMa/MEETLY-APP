@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">设置</string>
+    <string name="welcomeTitle">欢迎来到 Meetly!</string>
+    <string name="title_activity_splash">Meetly</string>
+    <string name="title_activity_create_event">创建</string>
+    <string name="skip">跳过</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="createEventBtn">创建</string>
+    <string name="title_activity_maps">地图</string>
+    <string name="address">地址:</string>
+    <string name="city">城市:</string>
+    <string name="country">国家:</string>
+
+    <string name="google_maps_key">AIzaSyAVu5V88MtxFimNFdwccYp-dfr3tJHDB3o</string>
+    <string name="create">创建</string>
+    <string name="endTime">结束时间</string>
+    <string name="startTimeOfEvent">开始时间</string>
+    <string name="dateOfEvent">日期</string>
+    <string name="eventTitleText">标题</string>
+    <string name="title_activity_view_event_details">事件细节</string>
+
+    <!--View Event Details Texts-->
+    <string name="event_details_main_title">事件细节</string>
+    <string name="event_details_name">事件标题</string>
+    <string name="event_details_date">日期:</string>
+    <string name="event_details_time">时间:</string>
+    <string name="event_details_duration">期限:</string>
+    <string name="event_details_status">状态:</string>
+    <string name="event_change_status_button">分享事件</string>
+    <string name="modifyEventBtn">修改事件</string>
+    <string name="title_activity_modify_event">修改事件</string>
+
+</resources>

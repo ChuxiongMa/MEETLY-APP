@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">haliva-meetly</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="welcomeTitle">Bienvenue à  Meetly!</string>
+    <string name="title_activity_splash">Meetly</string>
+    <string name="title_activity_create_event">Créer un événement</string>
+    <string name="skip">Sauter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="createEventBtn">Créer un événement</string>
+    <string name="title_activity_maps">Carte</string>
+    <string name="address">Adresse: </string>
+    <string name="city">Ville: </string>
+    <string name="country">Pays: </string>
+
+    <string name="google_maps_key">AIzaSyAVu5V88MtxFimNFdwccYp-dfr3tJHDB3o</string>
+    <string name="create">Créer un événement</string>
+    <string name="endTime">Heure de fin</string>
+    <string name="startTimeOfEvent">Heure de début</string>
+    <string name="dateOfEvent">Date</string>
+    <string name="eventTitleText">Titre</string>
+    <string name="title_activity_view_event_details">Détails de événement</string>
+
+    <!--View Event Details Texts-->
+    <string name="event_details_main_title">Détails de événement</string>
+    <string name="event_details_name">Nom de événement</string>
+    <string name="event_details_date">Date:</string>
+    <string name="event_details_time">Temps:</string>
+    <string name="event_details_duration">Durée:</string>
+    <string name="event_details_status">Statut:</string>
+    <string name="event_change_status_button">Partager événement</string>
+    <string name="modifyEventBtn">Modifier événement</string>
+    <string name="title_activity_modify_event">Modifier événement</string>
+
+
+</resources>

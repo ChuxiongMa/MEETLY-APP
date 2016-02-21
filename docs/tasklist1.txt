@@ -1,0 +1,19 @@
+Scrum master: Erick Liamzon
+
+
+Animated Welcome Screen: Erick
+
+1. View Events: Aaron 
+- Dynamically create buttons for number of events
+- Able to scroll buttons
+- Get current location and display name of location
+
+2. Viewing Event Details: Jessica 
+- Able to click a button from list that opens another 
+	activity where the event details are displayed
+- Able to access map and pin points location of event
+
+3. Creating a New Event: Prabhjot, Erick 
+- Enter event name, and details and stored into a list of objects
+- Able to display map with current location, and click on map to 
+	point out where	event is located

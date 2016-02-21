@@ -1,0 +1,76 @@
+Scrum master: Jessica
+
+
+Method to access objects anywhere: Prabhjot
+
+
+1. Logging In and Logging Out: Jessica
+--------------
+- The user starts up the app and eventally reaches the list of events.
+- From this screen, the user can choose to log in
+- The user is enters his or her username and password to log in and retrieve
+  a token number from the server.
+- The user returns to the list of events. Now the user's name shows up on the
+  screen to let them know that they are logged in.
+- The user can choose to log out from this screen as well, at which point his
+  or her name will disappear from the screen.
+
+Variation 1:
+ - If the user logged in during a previous session but did not log out, they
+   are still logged in when the app starts.
+
+Variation 2:
+ - If the log in attempt is rejected by the server, the user is show a brief
+   message and asked to try again. The user may cancel the log in process.
+
+2. Sharing a Planned Event: Prabhjot
+---------------------------
+ - Assume that the user has created a new event and it shows up in the event
+   list. Assume that the user is logged in.
+ - The status of that event shows up as "unshared" in the list of events.
+ - From the list of events, the user selects an unshared event and chooses
+   to share it.
+ - The app communicates with the central server to share the event, also
+   receiving a unique ID for the event.
+ - The event status is now listed as "shared" in the event list.
+
+3. Sharing a Spontaneous Event: Prabhjot
+-------------------------------
+ - Assume that the user has created a new event and it shows up in the event
+   list. The user need not be logged in.
+ - The status of that event shows up as "unshared" in the list of events.
+ - From the list of events, the user selects an unshared event and chooses
+   to share it as a spontaneous event.
+ - The app communicates with all other devices running the app nearby and
+   broadcasts the event to them.
+ - The event status is now listed as "spontaneous" in the event list.
+
+4. Editing a Planned Event: Erick
+---------------------------
+ - Assume that the user has created and shared an event as in use case 2.
+   The user is still logged into the app.
+ - From the list of events, the user can select an event of their own
+   and choose to edit it.
+ - Editing the event, the user is able to change any of the event
+   information from the original creation screen.
+ - Instead of saving the event, the app submits the changed event to the
+   central server.
+ - Upon successfully submitting the event, the new local event details
+   are also saved.
+
+Variation 1:
+ - If the user tries to edit an event that they did not create, the app
+   will prevent them.
+
+Variation 2:
+ - The server may decline to update the event, leaving it unchanged.
+
+5. Internationalization: Aaron
+------------------------
+ - Assume that the phone is presently configured to use English
+ - The user uses the application normally and all text, labels, and
+   so forth are displayed in English.
+ - The user exits the app and runs the Custom Locale program to change the
+   local of the emulated device (in an emulator).
+ - The user launches the application again and sees all of the messages
+   and text of the app itself displayed in the selected language.

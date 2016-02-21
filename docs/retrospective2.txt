@@ -1,0 +1,23 @@
+1. What did we observe during the iteration? What was noteworthy?
+
+There isn't a lot of time for complete thorough testing because tasks 
+are completed last minute. Tasks can be much more difficult to actually 
+implement than what was imagined during planning. Also, there were small 
+understanding issues about how one wanted a task to be implemented.
+
+
+
+2. What suggestions do we have for next time? How can we be a smarter,
+happier, more productive team?
+
+Complete your duties a bit earlier. Therefore, have a plan on what needs 
+to be completed on specific days. Be more careful in merging to avoid 
+merging conflicts. Speak up and ask for help if one doesn't understand 
+how to implement their task.
+
+
+
+3. What did we do well that we want to keep doing?
+
+Starting the assignment early. Teammates are willing to help each other. 
+Communicating to one another about what they are completing.
